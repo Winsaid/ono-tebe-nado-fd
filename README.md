@@ -1,1 +1,1 @@
-https://github.com/Winsaid/ono-tebe-nado
+https://github.com/Winsaid/ono-tebe-nado-fd
