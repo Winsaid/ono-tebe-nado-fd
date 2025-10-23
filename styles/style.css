@@ -63,7 +63,7 @@
 
 .address__link {
     width: 240px;
-    margin-bottom: 4px;
+    /*margin-bottom: 8px;*/
     text-underline-offset: 4px;
     line-height: 24.3px;
 }
@@ -313,7 +313,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: start;
-    padding: 90px 50px;
+    padding: 70px 50px;
     margin-top: 100px;
 }
 
