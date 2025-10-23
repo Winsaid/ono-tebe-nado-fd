@@ -63,7 +63,6 @@
 
 .address__link {
     width: 240px;
-    /*margin-bottom: 8px;*/
     text-underline-offset: 4px;
     line-height: 24.3px;
 }
@@ -265,7 +264,7 @@
 .about {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    margin: 120px 24px 0px;
+    margin: 120px 30px 0px;
 }
 
 .about__logo {
