@@ -38,9 +38,9 @@
   text-underline-offset: 4px;
 }
 
-.menu-item:first-child { 
-  list-style: none; 
-}  
+.menu-item:first-child {
+  list-style: none;
+}
 
 .menu-item.active a {
   text-decoration: none;
